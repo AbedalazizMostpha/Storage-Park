@@ -12,7 +12,7 @@
 - [System Architecture](#-system-architecture)
   - [Frontend](#-frontend)
   - [Backend](#-backend)
-  - [Database](#-database)
+  - [Database](#%EF%B8%8F-database)
   - [External Services](#-external-services)
 - [API Overview](#-api-overview)
 - [Tech Stack](#-tech-stack)
