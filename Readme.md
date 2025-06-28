@@ -9,7 +9,7 @@
 - [Overview](#-overview)
 - [Business Flow](#-business-flow)
 - [User Roles](#-user-roles)
-- [System Architecture](#-system-architecture)
+- [System Architecture](#%EF%B8%8F-system-architecture)
   - [Frontend](#-frontend)
   - [Backend](#-backend)
   - [Database](#%EF%B8%8F-database)
