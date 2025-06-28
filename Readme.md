@@ -10,7 +10,7 @@
 - [Business Flow](#-business-flow)
 - [User Roles](#-user-roles)
 - [System Architecture](#%EF%B8%8F-system-architecture)
-  - [Frontend](#-frontend)
+  - [Frontend](#%EF%B8%8F-frontend)
   - [Backend](#%EF%B8%8F-backend)
   - [Database](#%EF%B8%8F-database)
   - [External Services](#-external-services)
