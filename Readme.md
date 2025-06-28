@@ -16,7 +16,7 @@
   - [External Services](#-external-services)
 - [API Overview](#-api-overview)
 - [Tech Stack](#-tech-stack)
-- [Installation & Running](#-installation--running)
+- [Installation & Running](#%EF%B8%8F-installation--running)
 
 ---
 
