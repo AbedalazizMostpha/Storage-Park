@@ -11,7 +11,7 @@
 - [User Roles](#-user-roles)
 - [System Architecture](#%EF%B8%8F-system-architecture)
   - [Frontend](#-frontend)
-  - [Backend](#-backend)
+  - [Backend](#%EF%B8%8F-database)
   - [Database](#%EF%B8%8F-database)
   - [External Services](#-external-services)
 - [API Overview](#-api-overview)
