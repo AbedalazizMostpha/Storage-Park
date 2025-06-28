@@ -6,18 +6,17 @@
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
-- [Business Flow](#business-flow)
-- [User Roles](#user-roles)
-- [System Architecture](#system-architecture)
-  - [Frontend](#frontend)
-  - [Backend](#backend)
-  - [Database](#database)
-  - [External Services](#external-services)
-- [API Overview](#api-overview)
-- [Tech Stack](#tech-stack)
-- [Installation & Running](#installation--running)
-- [License](#license)
+- [Overview](#-overview)
+- [Business Flow](#-business-flow)
+- [User Roles](#-user-roles)
+- [System Architecture](#-system-architecture)
+  - [Frontend](#-frontend)
+  - [Backend](#-backend)
+  - [Database](#-database)
+  - [External Services](#-external-services)
+- [API Overview](#-api-overview)
+- [Tech Stack](#-tech-stack)
+- [Installation & Running](#-installation--running)
 
 ---
 
